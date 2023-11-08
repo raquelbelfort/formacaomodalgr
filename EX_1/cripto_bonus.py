@@ -52,7 +52,7 @@ def cifra_de_beaufort(texto, chave):
 
 # Exemplo de uso:
 senha_original_cesar = "AmoModalGR"
-senha_original_vigenere = "ModalGR2023"
+senha_original_vigenere = "ModalGR2024"
 senha_original_beaufort = "ProcessoFormacao"
 
 senha_cifrada_cesar = cifra_de_cesar(senha_original_cesar)
