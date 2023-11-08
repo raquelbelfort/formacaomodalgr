@@ -39,7 +39,7 @@ def criptografar_em_octal(senha, chave):
 senha_original_binario = "AmoModalGR"
 senha_cifrada_binario = criptografar_em_binario(senha_original_binario, chave_secreta)
 
-senha_original_hexadecimal = "ModalGR2023"
+senha_original_hexadecimal = "ModalGR2024"
 senha_cifrada_hexadecimal = criptografar_em_hexadecimal(senha_original_hexadecimal, chave_secreta)
 
 senha_original_octal = "ProcessoFormacao"
